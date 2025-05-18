@@ -93,7 +93,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ## Contact Information
 [Prof. Celso/São Paulo State University (UNESP)]
 [celso.silva@unesp.br] [celsonapoleon@gmail.com]
-[[Seu LinkedIn/Outro Link](https://www.linkedin.com/in/celsonapoleon/)]
+[[Celso Napoleon](https://www.linkedin.com/in/celsonapoleon/)]
 ## References
 
 * DOANE, D. P.; SEWARD, L. E. *Applied Statistics in Business and Economics*. 8th ed. McGraw-Hill Education, 2014.
