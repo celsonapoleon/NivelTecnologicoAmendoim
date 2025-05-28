@@ -90,6 +90,20 @@ Contributions are welcome! If you have suggestions for improvements, identified 
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
+## How to cite
+
+## ABNT
+
+NAPOLEON, Celso. **Fuzzy Inference System for Technological Level Assessment in Peanut Production - *NivelTecnologicoAmendoim* [software]**. Tupã, 2025. MATLAB. Disponível em: https://github.com/celsonapoleon/NivelTecnologicoAmendoim.
+
+## APA
+
+Napoleon, C. (2025). *Fuzzy Inference System for Technological Level Assessment in Peanut Production - NivelTecnologicoAmendoim [software]* [MATLAB]. https://github.com/celsonapoleon/NivelTecnologicoAmendoim (Trabalho original publicado 2025)
+
+## Chicago Style
+
+Napoleon, Celso. *Fuzzy Inference System for Technological Level Assessment in Peanut Production - NivelTecnologicoAmendoim [software]*. MATLAB. 2025. Reprint, Tupã, 2025. https://github.com/celsonapoleon/NivelTecnologicoAmendoim.
+
 ## Contact Information
 [Prof. Celso/São Paulo State University (UNESP)]
 [celso.silva@unesp.br] [celsonapoleon@gmail.com]
